@@ -1,6 +1,6 @@
 # Cross-Database Facial Expression Recognition Based on Fine-Tuned Deep Convolutional Network
 
-Follow link to access [full paper](http://urlib.net/rep/8JMKD3MGPAW/3PFBDPL?ibiurl.language=en) on SIBGRAPI library.
+Follow the link to access [full paper](http://urlib.net/rep/8JMKD3MGPAW/3PFBDPL?ibiurl.language=en) on SIBGRAPI library.
 
 ## Abstract
 
@@ -11,7 +11,7 @@ Facial expression recognition is a very important research field to understand h
 ## Models and Codes
 The models of the best result in each of five groups on VGG-FineTuning and VGG-Random can be found [here](https://drive.google.com/drive/folders/0B28GajqdPp8_eGtfRkxxdWZjY1E?usp=sharing).
 
-## Aditional information
+## Additional information
 More informations about this paper at [LCAD wiki](http://www.lcad.inf.ufes.br/wiki/index.php/Cross-Database_Facial_Expression_Recognition_Based_on_Fine-Tuned_Deep_Convolutional_Network)
 
 ## Poster
